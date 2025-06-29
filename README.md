@@ -25,7 +25,6 @@
 <p align="left">
 <a href="https://twitter.com/ivanda_mislav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanda_mislav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mislav-ivanda-975b86259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mislav-ivanda-975b86259/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13825085/mih1108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13825085/mih1108" height="30" width="40" /></a>
 <a href="https://discord.gg/mislavivanda_08569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mislavivanda_08569" height="30" width="40" /></a>
 </p>
 
