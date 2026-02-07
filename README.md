@@ -13,10 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mislavivanda?tab=repositories](https://github.com/mislavivanda?tab=repositories)
 
-- 💬 Ask me about **JavaScript ecosystem**
-
-- 📫 How to reach me **https://t.me/mihi1108**
-
 - ⚡ Fun fact **I'm an AvGeek**
 
 <h3 align="left">Connect with me:</h3>
